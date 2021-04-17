@@ -1,0 +1,4 @@
+streamlit
+gym[atari]
+stable-baselines3
+matplotlib
